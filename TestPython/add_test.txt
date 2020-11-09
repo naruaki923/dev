@@ -1,0 +1,5 @@
+>>> from add_test import add
+>>> add(1, 2)
+3
+>>> add(5, 10)
+15
